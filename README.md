@@ -8,8 +8,6 @@ I’m currently learning Javascript and studying Professional Certificate in Cod
 Skills: JS / HTML / CSS
 
 - 🔭 I’m currently working on Professional Certificate in Coding: Full Stack Development with MERN at MIT 
-- 📫 How to reach me: https://www.linkedin.com/in/dina-abdel-baky-mba-943a427a 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/blazedina)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/blazedina)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/blazedina/blazedina)  
 
